@@ -1,0 +1,9 @@
+build/
+*.o
+*.o.tmp
+*.a
+*.so
+*.so.*
+out/
+__pycache__/
+*.py[cod]
